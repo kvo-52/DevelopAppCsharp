@@ -1,0 +1,14 @@
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\obj\Debug\net7.0\AppHW01_Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\obj\Debug\net7.0\AppHW01_Tree.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\obj\Debug\net7.0\AppHW01_Tree.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\obj\Debug\net7.0\AppHW01_Tree.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\bin\Debug\net7.0\AppHW01_Tree.exe
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\bin\Debug\net7.0\AppHW01_Tree.deps.json
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\bin\Debug\net7.0\AppHW01_Tree.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\bin\Debug\net7.0\AppHW01_Tree.dll
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\bin\Debug\net7.0\AppHW01_Tree.pdb
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\obj\Debug\net7.0\AppHW01_Tree.dll
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\obj\Debug\net7.0\refint\AppHW01_Tree.dll
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\obj\Debug\net7.0\AppHW01_Tree.pdb
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\obj\Debug\net7.0\AppHW01_Tree.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHW01_Tree\obj\Debug\net7.0\ref\AppHW01_Tree.dll
