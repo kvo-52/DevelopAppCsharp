@@ -10,39 +10,41 @@ namespace AppHW2_Bits
     {
         bool GetBit(int i);
         void SetBit(bool bit, int index);
-    }
 
+    }
 
     public class Bits : IBits
     {
-        public Bits(byte b)
+        private ulong bits;
+
+
+        public Bits(ulong bits)
         {
-            this.Value = b;
-            MaxBitsCount = sizeof(byte) * 8;
+            this.bits = bits;
         }
 
-        public Bits(short b)
+        public static implicit operator Bits(long value)
         {
-            this.Value = b;
-            MaxBitsCount = sizeof(short) * 8;
+            return new Bits((ulong)value);
         }
 
-        public Bits(int b)
+        public static implicit operator Bits(int value)
         {
-            this.Value = b;
-            MaxBitsCount = sizeof(int) * 8;
+            return new Bits((ulong)value);
         }
 
-        public Bits(long b)
+        public static implicit operator Bits(byte value)
         {
-            this.Value = b;
-            MaxBitsCount = sizeof(long) * 8;
+            return new Bits((ulong)value);
         }
 
         public long Value { get; set; } = 0;
         private int MaxBitsCount { get; set; }
 
-
+        public override string ToString()
+        {
+            return bits.ToString();
+        }
 
         public bool GetBit(int index)
         {
@@ -70,6 +72,11 @@ namespace AppHW2_Bits
                 mask = (byte)(0xff ^ mask);
                 Value &= (byte)(Value & mask);
             }
+
+
         }
+
+                
     }
 }
+

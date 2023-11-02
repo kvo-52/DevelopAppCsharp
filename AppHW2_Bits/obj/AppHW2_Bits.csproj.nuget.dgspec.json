@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GeekBrains\\БЛОК-3_Developer\\4.Csharp_Application\\AppHW2_Bits\\AppHW2_Bits.csproj": {}
+    "D:\\GeekBrains\\БЛОК-3_Developer\\4.Csharp_Application\\AppHomeWork\\AppHW2_Bits\\AppHW2_Bits.csproj": {}
   },
   "projects": {
-    "D:\\GeekBrains\\БЛОК-3_Developer\\4.Csharp_Application\\AppHW2_Bits\\AppHW2_Bits.csproj": {
+    "D:\\GeekBrains\\БЛОК-3_Developer\\4.Csharp_Application\\AppHomeWork\\AppHW2_Bits\\AppHW2_Bits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GeekBrains\\БЛОК-3_Developer\\4.Csharp_Application\\AppHW2_Bits\\AppHW2_Bits.csproj",
+        "projectUniqueName": "D:\\GeekBrains\\БЛОК-3_Developer\\4.Csharp_Application\\AppHomeWork\\AppHW2_Bits\\AppHW2_Bits.csproj",
         "projectName": "AppHW2_Bits",
-        "projectPath": "D:\\GeekBrains\\БЛОК-3_Developer\\4.Csharp_Application\\AppHW2_Bits\\AppHW2_Bits.csproj",
+        "projectPath": "D:\\GeekBrains\\БЛОК-3_Developer\\4.Csharp_Application\\AppHomeWork\\AppHW2_Bits\\AppHW2_Bits.csproj",
         "packagesPath": "C:\\Users\\kvojo\\.nuget\\packages\\",
-        "outputPath": "D:\\GeekBrains\\БЛОК-3_Developer\\4.Csharp_Application\\AppHW2_Bits\\obj\\",
+        "outputPath": "D:\\GeekBrains\\БЛОК-3_Developer\\4.Csharp_Application\\AppHomeWork\\AppHW2_Bits\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kvojo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -19,3 +19,10 @@ D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW2_Bits\
 D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW2_Bits\obj\Debug\net7.0\AppHW2_Bits.dll
 D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW2_Bits\obj\Debug\net7.0\refint\AppHW2_Bits.dll
 D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW2_Bits\obj\Debug\net7.0\AppHW2_Bits.pdb
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW2_Bits\bin\Debug\net7.0\AppHW2_Bits.exe
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW2_Bits\bin\Debug\net7.0\AppHW2_Bits.deps.json
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW2_Bits\bin\Debug\net7.0\AppHW2_Bits.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW2_Bits\bin\Debug\net7.0\AppHW2_Bits.dll
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW2_Bits\bin\Debug\net7.0\AppHW2_Bits.pdb
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW2_Bits\obj\Debug\net7.0\AppHW2_Bits.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW2_Bits\obj\Debug\net7.0\ref\AppHW2_Bits.dll
