@@ -52,10 +52,8 @@ namespace AppLabirint
             {
                 var temp = stack.Pop();
 
-                while (stack.Count > 0)
-                {
-                    var temp = stack.Pop();
-
+               
+                   
                     if (l[temp.Item1, temp.Item2] == 2)
                     {
                         countExit++;
@@ -83,5 +81,4 @@ namespace AppLabirint
         }
 
     }
-}
         
