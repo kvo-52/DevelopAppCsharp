@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AppHW_04_SumNumber/1.0.0": {
+        "runtime": {
+          "AppHW_04_SumNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppHW_04_SumNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\bin\Debug\net7.0\AppHW_04_SumNumber.exe
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\bin\Debug\net7.0\AppHW_04_SumNumber.deps.json
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\bin\Debug\net7.0\AppHW_04_SumNumber.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\bin\Debug\net7.0\AppHW_04_SumNumber.dll
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\bin\Debug\net7.0\AppHW_04_SumNumber.pdb
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\obj\Debug\net7.0\AppHW_04_SumNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\obj\Debug\net7.0\AppHW_04_SumNumber.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\obj\Debug\net7.0\AppHW_04_SumNumber.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\obj\Debug\net7.0\AppHW_04_SumNumber.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\obj\Debug\net7.0\AppHW_04_SumNumber.dll
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\obj\Debug\net7.0\refint\AppHW_04_SumNumber.dll
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\obj\Debug\net7.0\AppHW_04_SumNumber.pdb
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\obj\Debug\net7.0\AppHW_04_SumNumber.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_04_SumNumber\obj\Debug\net7.0\ref\AppHW_04_SumNumber.dll
