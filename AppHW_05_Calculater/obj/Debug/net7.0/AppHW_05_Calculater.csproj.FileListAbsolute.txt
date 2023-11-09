@@ -1,0 +1,14 @@
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\bin\Debug\net7.0\AppHW_05_Calculater.exe
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\bin\Debug\net7.0\AppHW_05_Calculater.deps.json
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\bin\Debug\net7.0\AppHW_05_Calculater.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\bin\Debug\net7.0\AppHW_05_Calculater.dll
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\bin\Debug\net7.0\AppHW_05_Calculater.pdb
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\obj\Debug\net7.0\AppHW_05_Calculater.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\obj\Debug\net7.0\AppHW_05_Calculater.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\obj\Debug\net7.0\AppHW_05_Calculater.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\obj\Debug\net7.0\AppHW_05_Calculater.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\obj\Debug\net7.0\AppHW_05_Calculater.dll
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\obj\Debug\net7.0\refint\AppHW_05_Calculater.dll
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\obj\Debug\net7.0\AppHW_05_Calculater.pdb
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\obj\Debug\net7.0\AppHW_05_Calculater.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_05_Calculater\obj\Debug\net7.0\ref\AppHW_05_Calculater.dll
