@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AppHW_05_Calculater
+namespace AppHW_06_Exeption
 {
     internal interface ICalc
     {
         double Result  { get; set; }
-        void Sum(int x);
-        void Sub(int x);
-        void Multy(int x);
-        void Divide(int x);
+        void Sum(double x, double y);
+        void Sub(double x, double y);
+        void Multy(double x, double y);
+        void Divide(double x, double y);
         void CancleLast();
 
         event EventHandler<EventArgs> MyEventHandler;

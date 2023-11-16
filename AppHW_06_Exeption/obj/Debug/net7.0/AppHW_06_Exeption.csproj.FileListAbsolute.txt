@@ -1,0 +1,14 @@
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\bin\Debug\net7.0\AppHW_06_Exeption.exe
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\bin\Debug\net7.0\AppHW_06_Exeption.deps.json
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\bin\Debug\net7.0\AppHW_06_Exeption.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\bin\Debug\net7.0\AppHW_06_Exeption.dll
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\bin\Debug\net7.0\AppHW_06_Exeption.pdb
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\obj\Debug\net7.0\AppHW_06_Exeption.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\obj\Debug\net7.0\AppHW_06_Exeption.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\obj\Debug\net7.0\AppHW_06_Exeption.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\obj\Debug\net7.0\AppHW_06_Exeption.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\obj\Debug\net7.0\AppHW_06_Exeption.dll
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\obj\Debug\net7.0\refint\AppHW_06_Exeption.dll
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\obj\Debug\net7.0\AppHW_06_Exeption.pdb
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\obj\Debug\net7.0\AppHW_06_Exeption.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\4.Csharp_Application\AppHomeWork\AppHW_06_Exeption\obj\Debug\net7.0\ref\AppHW_06_Exeption.dll

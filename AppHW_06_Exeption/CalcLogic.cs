@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AppHW_05_Calculater
+namespace AppHW_06_Exeption
 {
     internal class CalcLogic : ICalc
     {
@@ -18,31 +18,49 @@ namespace AppHW_05_Calculater
         public void PrintResult() {
             MyEventHandler?.Invoke(this, new EventArgs());
         }
-        public void Divide(int x)
+        public void Divide(double x, double y)
         {
-            Result/=x;
+            if (y != 0)
+            {
+             Result=x/y;
+            }
+            else
+            {
+                throw new CalculatorDivideByZeroException();
+                Console.WriteLine("Error. Divide by null");
+            }
+            
             PrintResult();
             LastResult.Push(Result);
 
         }
 
-        public void Multy(int x)
+        public void Multy(double x, double y)
         {
-            Result*=x;
+            Result=x*y;
             PrintResult();
             LastResult.Push(Result);
         }
 
-        public void Sub(int x)
+        public void Sub(double x, double y)
         {
-            Result -=x;
-            PrintResult();
+            if (x < y)
+            {
+                throw new CalculatorDivideByZeroException();
+                Console.WriteLine("Error. Sub by null");
+            }
+            else
+            {
+            Result =x-y;
+            PrintResult();  
+            }
+                        
             LastResult.Push(Result);
         }
 
-        public void Sum(int x)
+        public void Sum(double x, double y)
         {
-            Result += x;
+            Result =x+y;
             PrintResult();
             LastResult.Push(Result);
 

@@ -15,14 +15,14 @@ namespace AppHW_06_Exeption
             try
             {
                 double result = double.Parse(input);
-                if (result >= 0)
+                if (result > 0)
                 {
                     return result;
 
                 }
                 else
                 {
-                    Console.WriteLine("Число отрицательное");
+                    Console.WriteLine("Число отрицательное или = 0");
                     result = 0;
                     return result;
                 }

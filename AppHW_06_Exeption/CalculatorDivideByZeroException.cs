@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace AppHW_06_Exeption
 {
-    internal class CalculatorDivideByZeroException
+    public class CalculatorDivideByZeroException : CalcExeption
     {
+        public CalculatorDivideByZeroException()
+        {
+
+        }
+        public CalculatorDivideByZeroException(string error) : base(error)
+        {
+
+        }
+
     }
 }
