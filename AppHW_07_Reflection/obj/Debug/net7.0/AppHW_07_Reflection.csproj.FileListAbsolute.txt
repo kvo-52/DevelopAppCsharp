@@ -1,0 +1,14 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\bin\Debug\net7.0\AppHW_07_Reflection.exe
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\bin\Debug\net7.0\AppHW_07_Reflection.deps.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\bin\Debug\net7.0\AppHW_07_Reflection.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\bin\Debug\net7.0\AppHW_07_Reflection.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\bin\Debug\net7.0\AppHW_07_Reflection.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\obj\Debug\net7.0\AppHW_07_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\obj\Debug\net7.0\AppHW_07_Reflection.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\obj\Debug\net7.0\AppHW_07_Reflection.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\obj\Debug\net7.0\AppHW_07_Reflection.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\obj\Debug\net7.0\AppHW_07_Reflection.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\obj\Debug\net7.0\refint\AppHW_07_Reflection.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\obj\Debug\net7.0\AppHW_07_Reflection.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\obj\Debug\net7.0\AppHW_07_Reflection.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_07_Reflection\obj\Debug\net7.0\ref\AppHW_07_Reflection.dll
