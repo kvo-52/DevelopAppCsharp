@@ -1,0 +1,14 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\bin\Debug\net7.0\AppHW_08_SeachFile.exe
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\bin\Debug\net7.0\AppHW_08_SeachFile.deps.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\bin\Debug\net7.0\AppHW_08_SeachFile.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\bin\Debug\net7.0\AppHW_08_SeachFile.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\bin\Debug\net7.0\AppHW_08_SeachFile.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\obj\Debug\net7.0\AppHW_08_SeachFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\obj\Debug\net7.0\AppHW_08_SeachFile.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\obj\Debug\net7.0\AppHW_08_SeachFile.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\obj\Debug\net7.0\AppHW_08_SeachFile.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\obj\Debug\net7.0\AppHW_08_SeachFile.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\obj\Debug\net7.0\refint\AppHW_08_SeachFile.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\obj\Debug\net7.0\AppHW_08_SeachFile.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\obj\Debug\net7.0\AppHW_08_SeachFile.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_08_SeachFile\obj\Debug\net7.0\ref\AppHW_08_SeachFile.dll
