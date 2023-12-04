@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 using System.Collections.Specialized;
 using System.Text;
 using System.Reflection;
-using AppHW_07_Reflection;
+
 
 namespace AppHW_07_Reflection
 {

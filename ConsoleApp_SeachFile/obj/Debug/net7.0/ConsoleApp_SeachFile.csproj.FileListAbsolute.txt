@@ -1,0 +1,14 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\bin\Debug\net7.0\ConsoleApp_SeachFile.exe
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\bin\Debug\net7.0\ConsoleApp_SeachFile.deps.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\bin\Debug\net7.0\ConsoleApp_SeachFile.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\bin\Debug\net7.0\ConsoleApp_SeachFile.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\bin\Debug\net7.0\ConsoleApp_SeachFile.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\obj\Debug\net7.0\ConsoleApp_SeachFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\obj\Debug\net7.0\ConsoleApp_SeachFile.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\obj\Debug\net7.0\ConsoleApp_SeachFile.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\obj\Debug\net7.0\ConsoleApp_SeachFile.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\obj\Debug\net7.0\ConsoleApp_SeachFile.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\obj\Debug\net7.0\refint\ConsoleApp_SeachFile.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\obj\Debug\net7.0\ConsoleApp_SeachFile.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\obj\Debug\net7.0\ConsoleApp_SeachFile.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\ConsoleApp_SeachFile\obj\Debug\net7.0\ref\ConsoleApp_SeachFile.dll

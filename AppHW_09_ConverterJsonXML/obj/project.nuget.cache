@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPjN/TVkpGa+fe/6gwO6bmoaftNo+Z8ojwoA0CjNtQT2pKbSkWaEIDtFb6glu/9q6mYRyKK1zUS8BlyWwgc7eg==",
+  "success": true,
+  "projectFilePath": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\2.Csharp_Application\\AppHomeWork\\AppHW_09_ConverterJsonXML\\AppHW_09_ConverterJsonXML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kvojo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

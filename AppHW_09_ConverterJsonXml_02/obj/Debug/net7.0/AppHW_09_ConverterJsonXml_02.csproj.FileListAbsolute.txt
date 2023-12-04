@@ -1,0 +1,17 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\bin\Debug\net7.0\AppHW_09_ConverterJsonXml_02.exe
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\bin\Debug\net7.0\AppHW_09_ConverterJsonXml_02.deps.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\bin\Debug\net7.0\AppHW_09_ConverterJsonXml_02.runtimeconfig.json
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\bin\Debug\net7.0\AppHW_09_ConverterJsonXml_02.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\bin\Debug\net7.0\AppHW_09_ConverterJsonXml_02.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\obj\Debug\net7.0\AppHW_09_ConverterJsonXml_02.csproj.AssemblyReference.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\obj\Debug\net7.0\AppHW_09_ConverterJsonXml_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\obj\Debug\net7.0\AppHW_09_ConverterJsonXml_02.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\obj\Debug\net7.0\AppHW_09_ConverterJsonXml_02.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\obj\Debug\net7.0\AppHW_09_ConverterJsonXml_02.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\obj\Debug\net7.0\AppHW_09_ConverterJsonXml_02.csproj.CopyComplete
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\obj\Debug\net7.0\AppHW_09_ConverterJsonXml_02.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\obj\Debug\net7.0\refint\AppHW_09_ConverterJsonXml_02.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\obj\Debug\net7.0\AppHW_09_ConverterJsonXml_02.pdb
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\obj\Debug\net7.0\AppHW_09_ConverterJsonXml_02.genruntimeconfig.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\2.Csharp_Application\AppHomeWork\AppHW_09_ConverterJsonXml_02\obj\Debug\net7.0\ref\AppHW_09_ConverterJsonXml_02.dll
